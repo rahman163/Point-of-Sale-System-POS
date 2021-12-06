@@ -1,4 +1,4 @@
-A) GROUP E SAJIBUT RAGJAKSMAKLSMA
+A) GROUP E 
 
 B)  Name	AND                      Matric Number
    
