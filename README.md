@@ -1,6 +1,7 @@
 GROUP E
 
-   Name	                      Matric Number
+   Name	AND                      Matric Number
+   
 1. MD ABDUR RAHMAN ------------- (1639233)
 2. RAHMAN MD SAAJIBUR ---------- (1715205)
 3. SHANJAN MAHMUD REAZ --------- (1738471)
