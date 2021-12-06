@@ -7,7 +7,13 @@ B)  Name	AND                      Matric Number
 3. SHANJAN MAHMUD REAZ --------- (1738471)
 4. SONIA TABASSUM ANTU --------- (1716978)
 
-C)
+C) THE ASSIGNED TASKS FOR EACH GROUP MEMBER
+
+1. MD ABDUR RAHMAN ---------> GET THE NAME AND DESCRIPTION OF THE ITEMS + 6% GST AMOUNT + CART
+2. RAHMAN MD SAJIBUR -------> CALCULATE QUANTITY OF PRODUCT
+3. SHANJAN MAHMUD REAZ ----> CALCULATE THE TOTAL AMOUNT OF PRODUCT
+4. SONIA TABASSUM ANTU -----> WORK ON THE DISCOUNT FOR THE PRICE
+
 
 D) A point-of-sale system (POS). It is a method in which customers pay for their purchases of items or services on a shopping site or in a real store, and where sales taxes may be due. They will finish the point of the sales transaction each time they make a purchase. For the purpose of our case study. We created a mobile application using react-native in which the customer or user inputs the product or service or item name, price, quantity, and whether or not the item is discounted. Customers will use the cart button to add more products and information to the system. Finally, it calculates the total price to be paid for the merchandise, and clients push the Total button.
 
