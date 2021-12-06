@@ -1,3 +1,12 @@
+GROUP E
+
+   Name	                      Matric Number
+1. MD ABDUR RAHMAN ------------- (1639233)
+2. RAHMAN MD SAAJIBUR ---------- (1715205)
+3. SHANJAN MAHMUD REAZ --------- (1738471)
+4. SONIA TABASSUM ANTU --------- (1716978)
+
+
 # Point-of-Sale-System-POS
 INFO 4302 CASE STUDY MOBILE APPLICATION DEVELOPMENT
 
