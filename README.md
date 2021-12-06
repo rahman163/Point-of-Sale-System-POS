@@ -1,6 +1,6 @@
-**A) GROUP E**
+**A) GROUP NAME: GROUP E**
 
-**B)  NAME	AND                      MATRIC NUMBERS**
+**B) GROUP MEMBERS NAME	AND MATRIC NUMBERS**
    
 1. MD ABDUR RAHMAN ------------- (1639233)
 2. RAHMAN MD SAJIBUR ---------- (1715205)
